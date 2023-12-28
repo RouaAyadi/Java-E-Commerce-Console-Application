@@ -1,3 +1,4 @@
+This project 'Java E-Commerce Console Application' is composed of :
 1. Main Class (ECommerceApp):
    The ECommerceApp class is the main class that contains the main method, serving as the entry point of the application. It initializes essential components, such as the scanner, product list, shopping cart, inventory, and processors.
 
